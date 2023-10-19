@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepansh
-- 👀 I’m interested in AI, Machine Learning, Computer Vision, RPA
-- 🌱 I’m currently learning RPA
-- 💞️ I’m looking to collaborate on Computer Vision and Machine Learning
+- 👀 I’m interested in AI, Machine Learning, Deep Learning, Data Science, Computer Vision, RPA
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on Deep Learning and Machine Learning
 - 📫 How to reach me deepanshsingh8@gmail.com
 
 <!---
